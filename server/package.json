@@ -9,6 +9,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"engines": {
+		"node": "^12.18.4"
+	},
 	"dependencies": {
 		"bcryptjs": "^2.1.0",
 		"body-parser": "^1.13.2",
